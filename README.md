@@ -19,12 +19,12 @@ Welcome to BallWave Survival, an addictive ball platformer where your goal is to
 
 ## Demo Video 🎥
 
-![GIF](https://s11.gifyu.com/images/ezgif.com-video-to-gif52654f4d7651b2cb.gif)
+![GIF]([https://s11.gifyu.com/images/ezgif.com-video-to-gif52654f4d7651b2cb.gif](https://i.ibb.co/3W36nZ8/ezgif-com-video-to-gif.gif))
 
 ## Getting Started 🚀
 
-<iframe id='webgl_iframe' frameborder="0" allow="autoplay; fullscreen; vr" allowfullscreen="" allowvr=""
-    mozallowfullscreen="true" src="https://play.unity.com/webgl/7af849d2-635c-4613-8157-eee2a493b4df?screenshot=false&embedType=embed"  width="810"
-    height="640" onmousewheel="" webkitallowfullscreen="true"></iframe>
+To play the game, simply follow this link: [BallWave Survival](https://play.unity.com/mg/other/templatedata-114). You can access the game directly in the Unity Play Cloud and start playing right away.
+
+Enjoy the game and challenge yourself to survive as long as possible! Have a great time. 😄
 
 
