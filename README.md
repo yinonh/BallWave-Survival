@@ -25,7 +25,6 @@ Welcome to BallWave Survival, an addictive ball platformer where your goal is to
   </video>
 </figure>
 
-Click the image above to watch the demo video!
 
 ## Getting Started 🚀
 
