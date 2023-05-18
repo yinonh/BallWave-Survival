@@ -19,7 +19,7 @@ Welcome to BallWave Survival, an addictive ball platformer where your goal is to
 
 ## Demo Video 🎥
 
-![GIF]([https://s11.gifyu.com/images/ezgif.com-video-to-gif52654f4d7651b2cb.gif](https://i.ibb.co/3W36nZ8/ezgif-com-video-to-gif.gif))
+![GIF](https://i.ibb.co/3W36nZ8/ezgif-com-video-to-gif.gif)
 
 ## Getting Started 🚀
 
